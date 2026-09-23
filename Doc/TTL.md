@@ -10,10 +10,10 @@ Disconnect other USB-to-UART adapters before testing so that `/dev/ttyUSB*` numb
 ### CJMCU-4232
 
 <p >
-  <img src="images/cjmcu-4232-front.jpg"
+  <img src="images/cjmcu-4232-front.png"
        alt="CJMCU-4232 front side"
        height="400">
-  <img src="images/cjmcu-4232-back-pinout.jpg"
+  <img src="images/cjmcu-4232-back-pinout.png"
        alt="CJMCU-4232 back side with pinout"
        height="400">
 </p>
